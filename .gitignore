@@ -2,5 +2,3 @@
 assets/
 __pycache__/
 *.pyc
-*.pt
-*.pth
