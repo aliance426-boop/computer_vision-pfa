@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application de détection et segmentation de défauts
 
 Prototype d'application développé dans le cadre du Projet de Fin d'Année (PFA)
@@ -106,3 +107,7 @@ Le fichier est organisé en cinq sections :
 ## Licence
 
 Projet académique — usage réservé au cadre du PFA 2026.
+=======
+# computer_vision-pfa
+Système d'analyse de façades de bâtiments par deep learning basé sur YOLO26. Détecte 5 types de défauts (corrosion, fissures, délamination, moisissures, défauts de peinture) et effectue la segmentation d'instance spécifiquement pour les fissures. Inclut un pipeline d'augmentation avec Albumentations et une interface Streamlit.
+>>>>>>> 31aa710d66858a5a28eef96573f3999998553dbd
